@@ -12,7 +12,7 @@ Open Terminal and get into directory.
 
 Run npm i
 
-Run npm run dev
+Run npm start
 
 Server Running on PORT: 8000 at address http://localhost:8000 (this will be referred to as server further)
 
